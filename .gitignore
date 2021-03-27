@@ -1,0 +1,5 @@
+.env
+commands.txt
+/node_modules
+ngrok.exe
+*.log
